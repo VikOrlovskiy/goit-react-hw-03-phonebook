@@ -1,0 +1,15 @@
+.wraper {
+  background-color: #ccc;
+  width: 400px;
+  margin: 20vh auto;
+}
+.title {
+  background-color: brown;
+  padding: 10px;
+  border-radius: 8px;
+}
+.subtitle {
+  padding: 10px;
+  border-radius: 8px;
+  background-color: brown;
+}
