@@ -13,3 +13,13 @@
   border-radius: 8px;
   background-color: brown;
 }
+.emptyList {
+  display: block;
+}
+.emptyListContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto 0;
+  height: 200px;
+}
