@@ -19,8 +19,8 @@ export default function ContactList({ contacts, deleteContact }) {
           </li>
         ))
       ) : (
-        <li>
-          <p> no contacts in list</p>
+        <li className={s.emptyListContainer}>
+          <p className={s.emptyList}> no contacts in list</p>
         </li>
       )}
     </ul>

@@ -5,3 +5,13 @@
   padding: 10px 5px;
   border: 1px solid black;
 }
+.emptyList {
+  display: block;
+}
+.emptyListContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto 0;
+  height: 200px;
+}
